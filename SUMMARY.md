@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Introduction](INTRODUCTION.md)
 * [The Chair](TheChair.md)
 * [Copyright](COPYRIGHT.md)
 
