@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * The Chair
-* Copyright
+* [Copyright](COPYRIGHT.md)
 
