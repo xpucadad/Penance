@@ -3,5 +3,5 @@
 
 If the muse returns, I may revisit that decision.
 
-- Kenneth M. Reed
+\- Kenneth M. Reed
 
