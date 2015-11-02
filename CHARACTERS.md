@@ -1,5 +1,5 @@
 # The Characters
 
-## [Gus Chapman](GusChapman.md)
-## [Norma Page](NormaPage.md)
-## [Constance X](ConstanceX.md)
+## [Gus Chapman](Characters/GusChapman.md)
+## [Norma Page](Characters/NormaPage.md)
+## [Constance X](Characters/ConstanceX.md)
